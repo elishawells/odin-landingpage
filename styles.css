@@ -1,0 +1,38 @@
+div {color:white;
+background-color: black;
+font-family: 'Times New Roman', Times, serif;
+}
+.one {
+    height: 140px;
+    padding: 16px;
+    background: #1f2937;
+    display: flex;
+
+}
+.two {
+    height: 140px;
+    padding: 16px;
+    background: white;
+    display: flex;
+
+}
+.three {
+    height: 140px;
+    padding: 16px;
+    background: #E5E7EB;
+    display: flex;
+
+}
+.four {
+    height: 140px;
+    padding: 16px;
+    background: white;
+    display: flex;
+
+}
+.wtr1{
+    padding: 1px;
+    display: flex;
+    height: 20px;
+    width: 100px;
+}
